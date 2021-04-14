@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md70", null ],
-      [ "Features", "index.html#autotoc_md71", null ],
-      [ "Documentation", "index.html#autotoc_md72", null ],
-      [ "Contributions", "index.html#autotoc_md73", null ]
+      [ "Overview", "index.html#autotoc_md71", null ],
+      [ "Features", "index.html#autotoc_md72", null ],
+      [ "Documentation", "index.html#autotoc_md73", null ],
+      [ "Contributions", "index.html#autotoc_md74", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -92,7 +92,8 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -126,15 +127,16 @@ var NAVTREEINDEX =
 "",
 "cpp/io/c/vfwprintf.html",
 "cpp/string/wide/iswlower.html",
-"d1/dc2/classstack.html#a61370d5fbaf9ec6bca4a8c114c1058e1",
-"d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#ae58dca20f08eaf9313f6e7b0869c2d0e",
-"d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html#ab3e7bf5a91911c17907b30b250108013",
-"d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html#a6b95277f5f527beacc8d0f3bc91fcd08",
-"d8/d77/namespacemachine__learning.html#abe6b58ec16abe0f6f8ac195e04aa8abd",
-"d9/dde/classbinary__search__tree.html#aa67321ed575ca313cd71d833d91234a6",
-"db/d8b/struct_node.html#a80be4538a9184fa43c1dee17641e819b",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#a3dc09f4742a0e1167ed202f7bf94721b",
-"functions_func_l.html"
+"d1/d83/classuint256__t.html#a4fdeb4d4bf8cca4ee99b8487e59831df",
+"d3/d24/qr__decomposition_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe",
+"d4/def/kohonen__som__topology_8cpp.html#a1d577f5d95b774ae97eb6838852d0df5",
+"d6/d30/classmachine__learning_1_1adaline.html#a082f758fb55fe19f22b3df66f89b2325",
+"d8/d10/structlist.html#a1900fe79e875e2838625b2eb60837f8f",
+"d9/d31/coin__change__topdown_8cpp.html",
+"da/d9a/palindrome__of__number_8cpp.html",
+"db/dc0/namespacebacktracking.html#a80af16e57cfb6aaab2bf1da4c4db3308",
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a6aef65b40347c4606662cad4dd2e14d3",
+"functions_g.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
